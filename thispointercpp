@@ -1,0 +1,25 @@
+ #include<iostream>
+#include<stdio.h>
+using  namespace std;
+
+class Demo
+{
+	public:
+	int x;
+	int y; 
+	
+ 
+	Demo(int j =,int k)		//parameterized constructor";
+	{
+	 
+
+
+
+};
+
+int main()
+{
+	 
+	 
+	return 0;
+}
